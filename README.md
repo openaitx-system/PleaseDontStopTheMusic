@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=mikey820&project=PleaseDontStopTheMusic&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # PleaseDontStopTheMusic
 
 An iOS tweak that allows multiple audio sources to play simultaneously by preventing audio session interruptions.
